@@ -18,10 +18,10 @@ class ChatScreen extends StatelessWidget {
           child: CircleAvatar(
             radius: 30.0,
             backgroundImage: NetworkImage(
-                'https://altiorem.com/wp-content/uploads/efectos-de-la-cocaina-en-la-nariz.jpg'),
+                'https://i.pinimg.com/736x/fb/8f/b0/fb8fb0352991b543624e89501fbd9dd3.jpg'),
           ),
         ),
-        title: const Text('SUPY ❄️❄️ '),
+        title: const Text('Sr Destino'),
       ),
 
       //body
